@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Minh</h1> <!-- -->
 <h2 align="center">Life is All About Trade-Offs⚖️</h2> <!-- -->
+
 <h3>🏫 K24 Computer Engineering of HCMUT</h3> <!-- -->
 
 - 🔭 I’m currently focusing on ASIC/FPGA design and SoC architecture
 - 🌱 I’m currently learning the fundamentals of System-on-chip and communication protocols
 - 🎯 Future goals: To become a professional engineer<!-- -->
 - ⚽ Fun fact: I'm really passionate about football, a fan of Manchester City football club.
--->
+
 
 **Connect with me via Email: minhdu4506@gmail.com**
+
 
 **Languages and Tools:**
 <p align="left">
