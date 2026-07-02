@@ -4,7 +4,7 @@
 <h3>🏫 K24 Computer Engineering of HCMUT</h3> <!-- -->
 
 - 🔭 I’m currently focusing on ASIC/FPGA design and SoC architecture
-- 🌱 I’m currently learning the fundamentals of System-on-chip and communication protocols
+- 🌱 I’m currently learning the Fundamentals of System-on-Chip and AI Accelerator / Edge AI.
 - 🎯 Future goals: To become a professional engineer<!-- -->
 - ⚽ Fun fact: I'm really passionate about football, a fan of Manchester City football club.
 
